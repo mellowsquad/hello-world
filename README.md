@@ -5,6 +5,5 @@ This is a demonstration of GitHub's built-in text editor. Think of this as an on
 You can edit code here but be careful! Code should be tested.
 
 ## This is a 2nd-level header!
-=====
 Lines!
 -----
